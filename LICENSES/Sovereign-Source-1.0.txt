@@ -1,0 +1,24 @@
+Sovereign Source License 1.0
+
+Copyright (c) 2026 Ahmad Ali Parr, Jessica L. Williams (SNAPKITTYWEST)
+Held under Bel Esprit D'Accord Irrevocable Trust
+
+Permission is hereby granted to any Sovereign Node operator to use, copy,
+modify, and distribute this software, subject to the following conditions:
+
+1. SOVEREIGN NODE REQUIREMENT: Use is permitted only within the SNAPKITTYWEST
+   sovereign constellation or under explicit written authorization from the
+   Trust holders.
+
+2. WORM INTEGRITY: Any deployment must preserve the WORM audit chain. No
+   output may be emitted without a cryptographic seal.
+
+3. NO DETACHMENT: This software may not be used to circumvent, bypass, or
+   undermine the Evidence/Silence protocol or the Trust Deed governance layer.
+
+4. ATTRIBUTION: All copies must retain this notice and the SNAPKITTYWEST
+   attribution in all output channels.
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE TRUST
+HOLDERS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM USE OF THIS SOFTWARE OUTSIDE AUTHORIZED SOVEREIGN DEPLOYMENTS.
